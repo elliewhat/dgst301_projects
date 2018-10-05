@@ -5,7 +5,7 @@ import random
 
 template = """
     If we had hinges on our {0}
-    There would be no {1}
+    There wouldn't be no {1}
 """
 
 pair = random.choice(get_pairs())
